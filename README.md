@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sid009hey
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on HTML and Vanilla CSS UI Design.. 
-- 📫 How to reach me im a very active discord user so u can just dm me  at Spec#8045 or email me at sidharthprasad009@gmail.com 
+- 🌱 I’m currently learning JavaScript.
+- 📫 email me at sidharthprasad009@gmail.com for queries or doubts regarding my code :)
 
 <!---
 Sid009hey/Sid009hey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
