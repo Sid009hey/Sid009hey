@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sid009hey
 - 🌱 I’m currently learning JavaScript.
-- 📫 email me at sidharthprasad009@gmail.com for queries or doubts regarding my code :)
+- 📫 Ty for using my projects :)
 
 <!---
 Sid009hey/Sid009hey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
